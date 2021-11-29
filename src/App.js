@@ -1,6 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Route, Switch} from "react-router-dom"
+import {Route, Switch, Link} from "react-router-dom"
 import Home from "./Screen/Home";
 import SamitiSadasay from "./Screen/SamitiSadasay";
 import SamitiUddeshay from "./Screen/SamitiUddeshay";
