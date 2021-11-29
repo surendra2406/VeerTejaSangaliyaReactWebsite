@@ -14,6 +14,7 @@ const MenuBar=()=>
       <NavDropdown title="समिति" id="collasible-nav-dropdown">
         <NavDropdown.Item href="samiti_Uddeshay">समिति उद्देश्य</NavDropdown.Item>
         <NavDropdown.Divider />
+        
         <NavDropdown.Item href="samiti_Sadasay">समिति सदस्य</NavDropdown.Item>
         
       </NavDropdown>
